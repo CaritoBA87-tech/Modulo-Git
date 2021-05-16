@@ -1,3 +1,4 @@
 #El signo de gato nos ayuda a definir un comentario
 #Ignorar todos los documentos con terminación .txt
-*.pptx
+*.txt
+!prueba.txt
